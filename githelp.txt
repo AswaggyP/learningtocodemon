@@ -1,0 +1,8 @@
+git clone https://github.com/AswaggyP/learningtocodemon
+git status 
+vi davidtest.txt
+	Testing git from David's computer.
+git add davidtest.txt // Add file to commit. (At gate)
+git commit -m "Testing git from David's computer. 1st GIT COMMIT!!!!"  // Commit the addition (Taxi to runway)
+git push origin   // Push to the tree (Take off)
+git pull // (Bring in new updates)
